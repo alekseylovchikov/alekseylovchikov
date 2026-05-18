@@ -26,9 +26,8 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-E34F26?style=flat-square&logo=Rust&logoColor=white" />
 </p>
-<br />
 <h4>
-  <a href="https://buymeacoffee.com/jwebbb" target="_blank">
+  <a href="https://buymeacoffee.com/jwebbb">
     <img width="150px" alt="Buy Me a Coffee" src="https://camo.githubusercontent.com/cb2215f3cf5d5f2a2d8678a32c8f47de821d1b8f72a7d82f87ac50daf8d6940e/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d6f72616e67652e706e67" />
   </a>
 </h4>
