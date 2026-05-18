@@ -2,14 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Aleksei and I'm a FullStack developer.</p>
-<h3>Things I code with</h3>
-<br />
-<h4 style="background-color: #fff; display: flex; align-items: center; justify-content: center; padding: 8px; border-radius: 8px;">
-  <a href="https://buymeacoffee.com/jwebbb" target="_blank">
-    <img width="150px" alt="Buy Me a Coffee" src="https://camo.githubusercontent.com/cb2215f3cf5d5f2a2d8678a32c8f47de821d1b8f72a7d82f87ac50daf8d6940e/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d6f72616e67652e706e67" />
-  </a>
-</h4>
-<br />
+<h3>Things I code with:</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
@@ -33,3 +26,9 @@
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Rust" src="https://img.shields.io/badge/-Rust-E34F26?style=flat-square&logo=Rust&logoColor=white" />
 </p>
+<br />
+<h4>
+  <a href="https://buymeacoffee.com/jwebbb" target="_blank">
+    <img width="150px" alt="Buy Me a Coffee" src="https://camo.githubusercontent.com/cb2215f3cf5d5f2a2d8678a32c8f47de821d1b8f72a7d82f87ac50daf8d6940e/68747470733a2f2f63646e2e6275796d6561636f666665652e636f6d2f627574746f6e732f76322f617269616c2d6f72616e67652e706e67" />
+  </a>
+</h4>
